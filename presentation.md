@@ -18,13 +18,13 @@
 
 Friedrich Nietzsche
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Or...
 
 which is best --> which do I prefer ... under which circumstances ... and why?
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Consider...
 
@@ -32,15 +32,15 @@ which is best --> which do I prefer ... under which circumstances ... and why?
 
 Evan Yue
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## My Goal
 
-- Help you experience the _flavor_ of the core of each library/framework
+- Help you experience the **_flavor_** of the core of each library/framework
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
-## Introducing the TODO apps...
+## Introducing the todo apps...
 
 - https://codepen.io/collection/DprzEK/
 - minimal, identical function
@@ -49,6 +49,7 @@ Evan Yue
 <br><br><br><br>
 
 ## Comparison: Getting Started
+
 - websites
 - dependencies
 - typical language/transpilation
@@ -57,6 +58,7 @@ Evan Yue
 <br><br><br><br>
 
 ## Comparison: Coding
+
 - data/state
 - looping DOM creation
 - binding JS code to DOM events
@@ -66,7 +68,10 @@ Evan Yue
 <br><br><br><br>
 
 ## Other Comparisons
+
 - [Real World](https://github.com/gothinkster/realworld) examples
 - [Udemy instructor's take](https://www.youtube.com/watch?v=KMX1mFEmM3E)
 
-Remember, there is really no substitute for trying them yourself and developing your own opinions.
+<br><br><br><br>
+
+> Remember, there is really no substitute for trying them yourself and developing your own opinions.
