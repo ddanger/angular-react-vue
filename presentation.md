@@ -12,27 +12,41 @@
 
 <br><br><br><br>
 
-## Quote
-> All of life is a dispute over taste and tasting.
+## Consider...
+
+> "All of life is a dispute over taste and tasting."
+
 Friedrich Nietzsche
 
 <br><br><br><br>
 
-## Big Goal
-
-- Experience the _flavor_ of the core of each library/framework
+which is best --> which do I prefer ... under which circumstances
 
 <br><br><br><br>
 
-## Small Goals
+## Consider...
 
-- minimal function
-- identical function 
-- similar code (but keeping the flavor's typical style)
+> "I think it’s important to actually let the team try things and get their direct feedback on whether they enjoy working with a framework. If they do, then it’s a good indicator that they will be more productive than with, say, another framework. I wouldn’t say Vue is always more pleasant because some people do prefer React or prefer Angular.”
+
+Evan Yue
 
 <br><br><br><br>
 
-## Getting started
+## My Goal
+
+- Help you experience the _flavor_ of the core of each library/framework
+
+<br><br><br><br>
+
+## Introducing the TODO apps...
+
+- https://codepen.io/collection/DprzEK/
+- minimal, identical function
+- similar code (while keeping the flavor's typical style)
+
+<br><br><br><br>
+
+## Comparison: Getting Started
 - websites
 - dependencies
 - typical language/transpilation
@@ -40,7 +54,7 @@ Friedrich Nietzsche
 
 <br><br><br><br>
 
-## Coding
+## Comparison: Coding
 - data/state
 - looping DOM creation
 - binding JS code to DOM events
@@ -49,6 +63,6 @@ Friedrich Nietzsche
 
 <br><br><br><br>
 
-## More Comparisons
+## Other Comparisons
 - [Real World](https://github.com/gothinkster/realworld) examples
 - [Udemy instructor's take](https://www.youtube.com/watch?v=KMX1mFEmM3E)
