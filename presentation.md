@@ -12,19 +12,15 @@
 
 <br><br><br><br>
 
-## Consider...
+## Bad Question
 
-> "All of life is a dispute over taste and tasting."
-
-Friedrich Nietzsche
+- Which framework/library is best?
 
 <br><br><br><br><br><br>
 
-## Or...
+## Better Question
 
-which is best --> which do I prefer ... under which circumstances ... and why?
-
-<br><br><br><br><br><br>
+- Which do I prefer ... under which circumstances ... and why?
 
 ## Consider...
 
